@@ -31,3 +31,5 @@ variable "vm_name" { default = "cmsdevm" }
 #    default = [ "cmsdevm01", "cmsdevm02", "cmsdevm03" ]
 #}
 
+
+

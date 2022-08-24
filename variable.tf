@@ -4,7 +4,7 @@ provider "azurerm" {
   }
 
 }
-
+#hola como tassh
 
 variable "resource_group_name" { default = "cmsdevrg" }
 variable "location" { default = "centralindia" }
